@@ -1,0 +1,34 @@
+.text_A{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.text_b{
+    text-decoration: none;
+}
+.mensajeExito{
+    border: solid 1px rgb(53, 224, 1);
+    background-color: rgb(53, 224, 1);
+    padding: 10px;
+}
+.mensajeE{
+    border: solid 1px rgb(252, 3, 3);
+    background-color: rgb(252, 3, 3);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+.buttonR{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);  
+    background-color: rgb(131, 0, 0);
+    border: solid 1px rgb(131, 0, 0);
+    padding: 3px 50px;
+    margin: 10px 0px;
+}
+.botonR:hover{
+    background-color: rgb(167, 2, 2);
+    border: solid 1px rgb(167, 2, 2);
+}
